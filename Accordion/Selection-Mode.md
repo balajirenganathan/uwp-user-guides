@@ -18,6 +18,8 @@ documentation: ug
 
 The default selection mode is One. 
 
+The default selection mode is One. 
+
 ## SelectionMode - One
 
 * Only one item can be in expanded/selected state.
