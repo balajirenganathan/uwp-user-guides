@@ -23,6 +23,7 @@ The default selection mode is One.
 ## SelectionMode - One
 
 * Only one item can be in expanded/selected state.
+* Test
 * One item must be in expanded/selected state.
 * Does not allows to unselect all the items. 
 
