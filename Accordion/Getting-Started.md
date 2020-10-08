@@ -19,6 +19,8 @@ Create a Universal Windows Platform project in Visual Studio and refer to the fo
 
 * Syncfusion.SfShared.UWP
 
+* Syncfusion.DocIO.UWP
+
 1.Include the namespace for Syncfusion.SfAccordion.UWP assembly in MainPage.xaml
 
 {% tabs %}
