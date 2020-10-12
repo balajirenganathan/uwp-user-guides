@@ -123,7 +123,7 @@ You can let the SfDataGrid to create columns or you can manually define columns 
 
 The automatic column generation based on properties of data object can be enabled or disabled by setting [SfDataGrid.AutoGenerateColumns](https://help.syncfusion.com/cr/cref_files/uwp/Syncfusion.SfGrid.UWP~Syncfusion.UI.Xaml.Grid.SfGridBase~AutoGenerateColumns.html). Default value is `true`.
 
-Columns are generated based on type of property. For example, `GridNumericColumn` is added for `int` type property. 
+Columns are generated based on type of property. For example, `GridNumericColumn` is added for `int` type property
 
 Below are table shows data type and its column type. For remaining types, `GridTextColumn` will be added.
   
