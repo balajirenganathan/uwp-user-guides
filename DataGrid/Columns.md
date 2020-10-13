@@ -67,7 +67,7 @@ Use to display the boolean type data
 {{'[GridImageColumn](https://help.syncfusion.com/cr/cref_files/uwp/Syncfusion.SfGrid.UWP~Syncfusion.UI.Xaml.Grid.GridImageColumn.html)'| markdownify }}
 </td>
 <td>
-Use to display the image in each row.
+Use to display the image in each row
 </td>
 </tr>
 <tr>
